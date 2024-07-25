@@ -1,0 +1,4 @@
+class Lighter{
+public Lighter(){
+}
+}

@@ -1,0 +1,4 @@
+class Bowl{
+public Bowl(){
+}
+}

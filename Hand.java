@@ -1,0 +1,5 @@
+class Hand{
+	public Hand(){
+		
+	}
+}

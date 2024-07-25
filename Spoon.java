@@ -1,0 +1,4 @@
+class Spoon{
+public Spoon(){
+}
+}
